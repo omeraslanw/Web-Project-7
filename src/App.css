@@ -1,0 +1,40 @@
+.card-container{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: #b7d0ff;
+  border-radius:7px;
+}
+
+.card {
+  margin: 10px;
+  flex: 1 0 200px;
+ 
+}
+
+.search-box{
+  border: 2px solid #000000 ;
+  width: 96%;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #27272798;
+  margin-left: 20px;
+
+}
+
+.button{
+  height: 60px;
+  border-radius: 10px;
+  
+}
+
+.app{
+  background-color: rgba(241, 221, 221, 0.733);
+}
+
+#title{
+  text-align: center;
+  font-family: 'New Century Schoolbook', Times, sans-serif;
+}
